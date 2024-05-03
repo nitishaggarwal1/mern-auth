@@ -14,21 +14,20 @@ JWT_SECRET = any secret key - must be secured
 
 ### Setup MongoDB
 1. Setting up MongoDB involves a few steps:
-⋅⋅*Visit MongoDB Atlas Website
-Go to the MongoDB Atlas website: https://www.mongodb.com/cloud/atlas.
-⋅⋅*Create an Account
-⋅⋅*Log in to your MongoDB Atlas account.
-⋅⋅*Create a New Cluster
-⋅⋅*Choose a Cloud Provider and Region
-⋅⋅*Configure Cluster Settings
-⋅⋅*Create Cluster
-⋅⋅*Wait for Cluster to Deploy
-⋅⋅*Create Database User
-⋅⋅*Set Up IP Whitelist
-⋅⋅*Connect to Cluster
-⋅⋅*Configure Your Application
-⋅⋅*Test the Connection
-
+*Visit MongoDB Atlas Website
+ #^  Go to the MongoDB Atlas website: https://www.mongodb.com/cloud/atlas.
+* Create an Account
+* Log in to your MongoDB Atlas account.
+* Create a New Cluster
+* Choose a Cloud Provider and Region
+* Configure Cluster Settings
+* Create Cluster
+* Wait for Cluster to Deploy
+* Create Database User
+* Set Up IP Whitelist
+* Connect to Cluster
+* Configure Your Application
+* Test the Connection
 2. Create a new database and configure the .env file with the MongoDB connection URL.
 
 Steps to run server Open the project in any editor of choice. 
